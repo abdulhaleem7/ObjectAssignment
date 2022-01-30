@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\bin\Debug\net5.0\ObjectAssignment.exe
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\bin\Debug\net5.0\ObjectAssignment.deps.json
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\bin\Debug\net5.0\ObjectAssignment.runtimeconfig.json
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\bin\Debug\net5.0\ObjectAssignment.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\bin\Debug\net5.0\ObjectAssignment.dll
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\bin\Debug\net5.0\ref\ObjectAssignment.dll
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\bin\Debug\net5.0\ObjectAssignment.pdb
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\obj\Debug\net5.0\ObjectAssignment.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\obj\Debug\net5.0\ObjectAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\obj\Debug\net5.0\ObjectAssignment.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\obj\Debug\net5.0\ObjectAssignment.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\obj\Debug\net5.0\ObjectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\obj\Debug\net5.0\ObjectAssignment.dll
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\obj\Debug\net5.0\ref\ObjectAssignment.dll
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\obj\Debug\net5.0\ObjectAssignment.pdb
+C:\Users\user\source\repos\ObjectAssignment\ObjectAssignment\obj\Debug\net5.0\ObjectAssignment.genruntimeconfig.cache
